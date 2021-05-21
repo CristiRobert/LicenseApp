@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocialTrackingApp</string>
+    <string name="databaseURL">https://socialtrackingapp-a4737-default-rtdb.firebaseio.com</string>
+    <string name="storageURL">gs://socialtrackingapp-a4737.appspot.com</string>
+</resources>
